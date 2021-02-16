@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:viewModel="clr-namespace:LogFinalDink.viewModel"
+             x:Class="LogFinalDink.Views.Login">
+    <ContentPage.BindingContext>
+        <viewModel:LoginPageViewModel>
+            
+        </viewModel:LoginPageViewModel>
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <Grid Margin="30,40,30,0" HorizontalOptions="Center" VerticalOptions="Center" >
+            <Button x:Name="SignInBtn" Text="Sign in" Command="{Binding CommandSignIn}"/>
+        </Grid>
+      
+    </ContentPage.Content>
+
+</ContentPage>

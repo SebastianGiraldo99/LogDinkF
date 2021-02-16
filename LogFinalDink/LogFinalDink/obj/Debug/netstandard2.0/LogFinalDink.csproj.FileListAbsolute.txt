@@ -1,0 +1,33 @@
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\LogFinalDink.csprojAssemblyReference.cache
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\Views\LoginResultPage.xaml.g.cs
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\LogFinalDink.AssemblyInfoInputs.cache
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\LogFinalDink.AssemblyInfo.cs
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\LogFinalDink.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\LogFinalDink.dll
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\ref\LogFinalDink.dll
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\LogFinalDink.pdb
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\bin\Debug\netstandard2.0\LogFinalDink.deps.json
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\bin\Debug\netstandard2.0\LogFinalDink.dll
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\bin\Debug\netstandard2.0\ref\LogFinalDink.dll
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\bin\Debug\netstandard2.0\LogFinalDink.pdb
+C:\Users\SEBASTIAN\source\repos\LogFinalDink\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\bin\Debug\netstandard2.0\LogFinalDink.deps.json
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\bin\Debug\netstandard2.0\LogFinalDink.dll
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\bin\Debug\netstandard2.0\ref\LogFinalDink.dll
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\bin\Debug\netstandard2.0\LogFinalDink.pdb
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\LogFinalDink.csprojAssemblyReference.cache
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\Views\LoginResultPage.xaml.g.cs
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\LogFinalDink.AssemblyInfoInputs.cache
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\LogFinalDink.AssemblyInfo.cs
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\LogFinalDink.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\LogFinalDink.dll
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\ref\LogFinalDink.dll
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\LogFinalDink.pdb
+C:\Users\SEBASTIAN\source\repos\LogFinalDink - copia\LogFinalDink\LogFinalDink\obj\Debug\netstandard2.0\Views\HomeViewPage.xaml.g.cs
